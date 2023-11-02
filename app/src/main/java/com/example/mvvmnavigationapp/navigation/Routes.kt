@@ -1,0 +1,7 @@
+package com.example.mvvmnavigationapp.navigation
+
+const val ROUTE_HOME="home"
+const val ROUTE_ABOUT="about"
+const val ROUTE_PRODUCTS="products"
+const val ROUTE_SIGNUP="signup"
+const val ROUTE_LOGIN="login"
